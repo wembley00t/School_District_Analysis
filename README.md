@@ -30,6 +30,12 @@ the metrics.  The most noted change is the change in overall passing from 65.2% 
 
 ### School Summary
 
+Original School Summary
+
+Updated
+![Updated School Summary](https://user-images.githubusercontent.com/100876517/163747508-220ad36d-ad68-4175-9bfa-edef76dc5e34.png)
+
+
 
 ### Top 5 and Bottom 5 Performing Schools 
 ### Average Math Score Each Grade Level

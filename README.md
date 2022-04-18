@@ -15,7 +15,10 @@ The analysis will compare the updated metrics after the correction for Thomas Hi
 
 ## School District Analysis Results
 
+
 ### District Summary
+
+
 ### School Summary
 ### Top 5 and Bottom 5 Performing Schools 
 ### Average Math Score Each Grade Level
@@ -26,6 +29,6 @@ The analysis will compare the updated metrics after the correction for Thomas Hi
 
 
  
-### Election-Audit Summary
+## School District Analysis Summary
 
 The code used for this specific election-audit can be modified and used in any election.  The code can be modified to include additional voter data or to combine the county and candidate data to show trends for candidate vote by county. 

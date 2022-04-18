@@ -15,11 +15,20 @@ The analysis will compare the updated metrics after the correction for Thomas Hi
 
 ## School District Analysis Results
 
-
 ### District Summary
 
+Below is a comparison of the original school district summary to the updated district summary.
+
+![Org School District](https://user-images.githubusercontent.com/100876517/163746328-0ae073b4-362e-4e43-9bab-79eebd6317c2.png)
+
+![Updated School District](https://user-images.githubusercontent.com/100876517/163746321-83f01945-00e9-4efc-8b5a-446e96b92bc2.png)
+
+The total students decreased by 461 or 1.2%.  This small decrease did not materially impact the overall results.  This can be seen by comparing 
+the metrics.  The most noted change is the change in overall passing from 65.2% to 64.1%.
 
 ### School Summary
+
+
 ### Top 5 and Bottom 5 Performing Schools 
 ### Average Math Score Each Grade Level
 ### Average Reading Score Each Grade Level

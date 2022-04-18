@@ -2,7 +2,7 @@
 
 ## Overview School_District_Analysis
 This is an updated school district analysis updated by removing the ninth grade math and reading scores for Thomas High School with NaNs.  
-The updated analysis will include the following metrics:
+The updated analysis will include the following metrics for review:
 
   *  The district summary
   *  The school summary
@@ -31,18 +31,21 @@ the metrics.  The most noted change is the change in overall passing from 65.2% 
 ### School Summary
 
 Original School Summary
+![Org School Summary](https://user-images.githubusercontent.com/100876517/163747852-aade38ce-ad0d-462a-a0fc-d44717547c7d.png)
+
 
 Updated
 ![Updated School Summary](https://user-images.githubusercontent.com/100876517/163747508-220ad36d-ad68-4175-9bfa-edef76dc5e34.png)
 
+Thomas High School is the only school with changes.  As with the updated school district, the updated overall school summary is materially the same.
 
+### Thomas High School Performance
+Thomas High School reflects much better performance when the ninth graders with NaNs are removed.  While the average math and reading score do not change,
+the % passing math, reading and overall passing show a significant improvement.  The original passing percentages for these categories were 65% to 70%.
+With the update, the passing percentages for these categories improves to 91% to 97%.
 
-### Top 5 and Bottom 5 Performing Schools 
-### Average Math Score Each Grade Level
-### Average Reading Score Each Grade Level
-### Scores by School Spending per Student, by School Size and School Type
+### Updated Scores after Replacing Ninth-Grade Scores
 
- '''
 
 
  

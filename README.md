@@ -48,6 +48,9 @@ With the update, the passing percentages for these categories improves to 91% to
 
 ### Updated Scores after Replacing Ninth-Grade Scores
 
+Details on various metrics are below.  Given the small size of 461 students for Thomas High School ninth graders, the overall metrics did not change
+for the following:
+
 #### Math Grades
 Original Math Grades by Grade
 
@@ -103,4 +106,7 @@ Updated
  
 ## School District Analysis Summary
 
-The code used for this specific election-audit can be modified and used in any election.  The code can be modified to include additional voter data or to combine the county and candidate data to show trends for candidate vote by county. 
+Four changes noted with the updated school district analysis:
+** The number of students decreased from 39,170 to 38,709
+**
+

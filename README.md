@@ -71,11 +71,35 @@ Updated Reading Grades by Grade
 ![updated reading grades](https://user-images.githubusercontent.com/100876517/163749410-a4c6b828-58b7-44eb-8576-8a318bb05cef.png)
 
 #### Scores by School Spending
+Original
+
+![Orig Scores by spending](https://user-images.githubusercontent.com/100876517/163750133-6a3158f3-05cc-4e64-869c-24f457217bc7.png)
+
+Updated
+
+![Updated scores by school spending](https://user-images.githubusercontent.com/100876517/163750147-541d0e47-b54d-4da0-8fb8-c1321456a827.png)
+
+
 
 #### Scores by School Size
 
+Original
+
+![Orig scores by school size](https://user-images.githubusercontent.com/100876517/163750106-2246f04e-e457-498f-8d27-9405ee6f8789.png)
+
+Updated
+
+![Updated scores by school size](https://user-images.githubusercontent.com/100876517/163750118-3fde4caa-8e4e-495f-b398-42526809876e.png)
+
 #### Scores by School Type
 
+Original
+
+![orig scores by school type](https://user-images.githubusercontent.com/100876517/163750079-535d52c4-b152-4cc2-9493-ff844fd43428.png)
+
+Updated
+
+![Updated scores by school type](https://user-images.githubusercontent.com/100876517/163750093-cbd2a698-c09d-4216-a4f3-ecf73ebd8293.png)
  
 ## School District Analysis Summary
 

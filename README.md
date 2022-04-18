@@ -50,16 +50,21 @@ With the update, the passing percentages for these categories improves to 91% to
 
 Original Math Grades by Grade
 
+
 ![orig math grades by grade](https://user-images.githubusercontent.com/100876517/163749378-90cb1091-0030-4c3c-bd4f-d27fbe814e65.png)
 
 Updated Math Grades by Grade
+
+
 ![updated math grades](https://user-images.githubusercontent.com/100876517/163749395-0374e7d1-2604-4b03-b662-b320a7bbe65b.png)
 
 Original Reading Grades by Grade
 
+
 ![Orig reading grades by grade](https://user-images.githubusercontent.com/100876517/163749403-9795ec31-ace8-42e2-852c-93835318f9e4.png)
 
 Updated Reading Grades by Grade
+
 
 ![updated reading grades](https://user-images.githubusercontent.com/100876517/163749410-a4c6b828-58b7-44eb-8576-8a318bb05cef.png)
 

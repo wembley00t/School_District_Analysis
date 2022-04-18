@@ -48,6 +48,7 @@ With the update, the passing percentages for these categories improves to 91% to
 
 ### Updated Scores after Replacing Ninth-Grade Scores
 
+#### Math Grades
 Original Math Grades by Grade
 
 
@@ -58,6 +59,7 @@ Updated Math Grades by Grade
 
 ![updated math grades](https://user-images.githubusercontent.com/100876517/163749395-0374e7d1-2604-4b03-b662-b320a7bbe65b.png)
 
+#### Reading Grades
 Original Reading Grades by Grade
 
 
@@ -68,7 +70,11 @@ Updated Reading Grades by Grade
 
 ![updated reading grades](https://user-images.githubusercontent.com/100876517/163749410-a4c6b828-58b7-44eb-8576-8a318bb05cef.png)
 
+#### Scores by School Spending
 
+#### Scores by School Size
+
+#### Scores by School Type
 
  
 ## School District Analysis Summary

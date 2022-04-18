@@ -107,6 +107,8 @@ Updated
 ## School District Analysis Summary
 
 Four changes noted with the updated school district analysis:
-** The number of students decreased from 39,170 to 38,709
-**
+
+* The number of students decreased from 39,170 to 38,709
+* Thomas High School reflected a higher overall passing percentage for math, reading and overall passing.
+
 
